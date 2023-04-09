@@ -1,0 +1,84 @@
+{
+  "prefectures": [
+    {
+      "name": "北海道",
+      "capital": "札幌市",
+      "population": 5320000,
+      "area": 83424,
+      "flag": true,
+      "cities": [
+        {"name": "仙台市", "population": 1070000},
+        {"name": "石巻市", "population": 400000},
+        {"name": "塩竈市", "population": 42000}
+      ]
+    },
+    {
+      "name": "青森県",
+      "capital": "青森市",
+      "population": 1260000,
+      "area": 9645,
+      "flag": true,
+      "cities": [
+        {"name": "仙台市", "population": 1070000},
+        {"name": "石巻市", "population": 400000},
+        {"name": "塩竈市", "population": 42000}
+      ]
+    },
+    {
+      "name": "岩手県",
+      "capital": "盛岡市",
+      "population": 1220000,
+      "area": 15275,
+      "flag": false,
+      "cities": [
+        {"name": "仙台市", "population": 1070000},
+        {"name": "石巻市", "population": 400000},
+        {"name": "塩竈市", "population": 42000}
+      ]
+    },
+    {
+      "name": "宮城県",
+      "capital": "仙台市",
+      "population": 2300000,
+      "area": 7288,
+      "cities": [
+        {"name": "仙台市", "population": 1070000},
+        {"name": "石巻市", "population": 400000},
+        {"name": "塩竈市", "population": 42000}
+      ]
+    },
+    {
+      "name": "秋田県",
+      "capital": "秋田市",
+      "population": 980000,
+      "area": 11638,
+      "cities": [
+        {"name": "秋田市", "population": 306000},
+        {"name": "横手市", "population": 37800},
+        {"name": "大館市", "population": 46600}
+      ]
+    },
+    {
+      "name": "山形県",
+      "capital": "山形市",
+      "population": 1120000,
+      "area": 9323,
+      "cities": [
+        {"name": "山形市", "population": 253000},
+        {"name": "米沢市", "population": 85300},
+        {"name": "鶴岡市", "population": 85500}
+      ]
+    },
+    {
+      "name": "福島県",
+      "capital": "福島市",
+      "population": 1880000,
+      "area": 13784,
+      "cities": [
+        {"name": "福島市", "population": 287000},
+        {"name": "郡山市", "population": 329000},
+        {"name": "会津若松市", "population": 115000}
+      ]
+    }
+  ]
+}
