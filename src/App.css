@@ -29,6 +29,26 @@
   color: white;
 }
 
+.icon{
+   -webkit-animation:flash 2.0s ease-in-out infinite alternate;
+   -moz-animation:flash 2.0s ease-in-out infinite alternate;
+   animation:flash 1.0s ease-in-out infinite alternate;
+   /* transform-origin: top left; */
+}
+@-webkit-keyframes flash{
+   0% {opacity:0;}
+   100% {opacity:1;}
+}
+@-moz-keyframes flash{
+   0% {opacity:0;}
+   100% {opacity:1;}
+}
+@keyframes flash{
+   0% {opacity:0;}
+   100% {opacity:1}
+}
+
+
 .App-link {
   color: #61dafb;
 }

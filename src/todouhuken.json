@@ -29,7 +29,7 @@
       "capital": "盛岡市",
       "population": 1220000,
       "area": 15275,
-      "flag": false,
+      "flag": true,
       "cities": [
         {"name": "仙台市", "population": 1070000},
         {"name": "石巻市", "population": 400000},
